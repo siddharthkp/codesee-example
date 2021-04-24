@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  font-size: 32px;
+  width: 50px;
+  margin: 16px;
+}
